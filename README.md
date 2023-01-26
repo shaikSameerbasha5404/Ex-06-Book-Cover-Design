@@ -123,10 +123,10 @@ Add images and other contents using CSS record a screenshot of it.
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>Gumma Dileep Kumar</b></p>
+               <p><b>Shaik Sameer Basha</b></p>
             </div>
             <div class="publisher">
-                22007129>
+                22004926>
             </div>
             <div class="edition">
                 <b>THIRD EDITION</b>
